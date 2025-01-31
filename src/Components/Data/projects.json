@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Online Admission Portfolio",
+    "imgSrc": "Projected/Project1.jpg",
+    "description": "Web platform for online university admissions: apply, submit docs, and track status.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "imgSrc": "Projected/Weather.jpeg",
+    "description": "Web app providing real-time weather updates and forecasts.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "id": 3,
+    "title": "React Recipe",
+    "imgSrc": "Projected/project3.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

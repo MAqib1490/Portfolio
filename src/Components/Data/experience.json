@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer Intern",
+    "organisation": "SSS Group Privet Ltd",
+    "startDate": "January, 2024",
+    "endDate": "Jul, 2024",
+    "location": " Multan District, Punjab,",
+    "experiences": [
+      "Built and optimized interactive web components with HTML, CSS, JavaScript, and Bootstrap to enhance functionality.",
+      "Improved user experience by fixing bugs, monitoring performance, and collaborating on better design and code practices."
+    ],
+    "imageSrc": "company/logo.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "IT Support Specialist ",
+    "organisation": "Fitwell Hub",
+    "startDate": "Jul, 2024",
+    "endDate": "Present",
+    "location": " Multan District, Punjab,",
+    "experiences": [
+      "Provided QA, implementation, and training for Health and Pharmacy Management ",
+      "Managed user accounts, ensured data accuracy, scheduled meetings, and provided technical support with module testing."
+    ],
+    "imageSrc": "company/Logo Icon.png"
+  },
+  {
+    "id": 3,
+    "role": "IT Analyst Pakistan Big Data Revolution",
+    "organisation": "PBDR",
+    "startDate": "Apr, 2024",
+    "endDate": "Remote",
+    "location": " Multan District, Punjab,",
+    "experiences": [
+      "Performed data analysis to support business decisions and optimize operations.",
+      "Collaborated across teams to analyze trends and identify growth opportunities"
+    ],
+    "imageSrc": "company/pidar_00_logo.jpeg"
+  }
+]
